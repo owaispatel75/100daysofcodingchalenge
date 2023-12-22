@@ -16,7 +16,7 @@
 }
 .heading {
   color: black;
-  font-size: 32px;
+  font-size: 2rem;
   text-transform: capitalize;
   font-family: Inter,sans-serif;
   text-decoration:underline;
