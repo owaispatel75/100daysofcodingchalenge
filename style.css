@@ -21,6 +21,7 @@
   font-family: Inter,sans-serif;
   text-decoration:underline;
   font-weight:bold;
+  text-align:center;
 }
 .main-container{
   display:flex;
