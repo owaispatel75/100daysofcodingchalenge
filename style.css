@@ -39,3 +39,8 @@
 .projectlink{
   text-decoration:none;
 }
+@media only screen and (max-width: 500px) {
+  .heading {
+    font-size: 1.8rem;
+  }
+}
