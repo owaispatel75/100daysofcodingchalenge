@@ -6,7 +6,7 @@
 }
 
 .header {
-  background-color: #d9d9d9;
+  background-color: #000000;
   height: 100px;
   width: 100%;
   display:flex;
@@ -15,7 +15,7 @@
   
 }
 .heading {
-  color: black;
+  color: rgb(255, 255, 255);
   font-size: 2rem;
   text-transform: capitalize;
   font-family: Inter,sans-serif;
@@ -30,6 +30,7 @@
   flex-wrap:wrap;
   justify-content:center;
 }
+
 .card-img-top{
   height:200px;
   object-fit: contain;
